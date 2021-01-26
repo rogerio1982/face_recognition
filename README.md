@@ -1,6 +1,6 @@
 # face_recognition in python
 
-1. git clone
+1. git clone https://github.com/rogerio1982/face_recognition.git
 2. create pastes: dataset and trainer
 3. execute facedataset.py to create database using web cam
 4. excute facetraining.py to trainner model
